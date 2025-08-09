@@ -19,7 +19,7 @@ const App = () => {
 
       }}></input>
     <br/>
-      <p>Sum:{sum}</p>
+      <p>Sum: {sum}</p>
 
         {/* Do not remove the main div */}
     </div>
